@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_whm_wpn_cz" path="concepts/c-springbreak.html"/>
+   <appContext helpID="task_f3m_cqn_cz" path="tasks/t-springbreaktasks.html"/>
+   <appContext helpID="task_gnf_trn_cz" path="tasks/t-sleep.html"/>
+   <appContext helpID="task_cyw_jsn_cz" path="tasks/t-transporation.html"/>
+   <appContext helpID="task_ilc_ysn_cz" path="tasks/t-time.html"/>
+   <appContext helpID="task_x5l_5tn_cz" path="tasks/t-money.html"/>
+</map>

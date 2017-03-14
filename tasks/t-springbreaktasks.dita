@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_f3m_cqn_cz">
-    <title></title>
-    <shortdesc/>
+    <title>Where To? </title>
+    <shortdesc>Here we will learn about where the spring break trip will take us </shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Maggie will go to her paren't home in Chantily, Virginia. She needs to complete the
+                following before starting her journey toward Northern Virginia (NOVA). </p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Call parents to provide details about visit</cmd>
+            </step>
+            <step>
+                <cmd>Pack for the alotted time period of the stay </cmd>
+            </step>
+            <step>
+                <cmd>Put gas in the car</cmd>
+            </step>
+            <step>
+                <cmd>Ensure understanding of directions from Blacksburg to NOVA</cmd>
             </step>
         </steps>
     </taskbody>

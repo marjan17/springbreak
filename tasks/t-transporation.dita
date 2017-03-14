@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_cyw_jsn_cz">
+    <title>Transporatation </title>
+    <shortdesc>Blacksburg and Chantily are very far away. The four hour travel will be long and
+        tiring. Maggie wants to get there in the most efficient way possible </shortdesc>
+    <taskbody>
+        <context>Maggie will drive to NOVA herself. This journey will take four hours. <image
+                href="../images/635929993412409527-1353917869_Image-1-1.jpg" id="image_wbt_ctn_cz"
+            /></context>
+        <steps>
+            <step>
+                <cmd>Fill the car up with gas</cmd>
+            </step>
+            <step>
+                <cmd>Check the car's tire pressure</cmd>
+            </step>
+            <step>
+                <cmd>Check the car's lights, breaks and overall safety </cmd>
+            </step>
+            <step>
+                <cmd>Load the car with luggage</cmd>
+            </step>
+            <step>
+                <cmd>Pack snacks and water for the ride</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

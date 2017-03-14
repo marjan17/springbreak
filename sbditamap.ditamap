@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Springbreak</title>
+ <topicref href="concepts/c-springbreak.dita"/>
+ <topicref href="tasks/t-springbreaktasks.dita"/>
+ <topicref href="tasks/t-sleep.dita"/>
+ <topicref href="tasks/t-transporation.dita"/>
+ <topicref href="tasks/t-time.dita"/>
+ <topicref href="tasks/t-money.dita"/>
+</map>

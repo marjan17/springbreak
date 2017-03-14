@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_x5l_5tn_cz">
+    <title>How to Pay</title>
+    <shortdesc>Spring break isn't always cheap. It costs money to relax and have a good time, that's
+        why it's important to consdier funding and spending </shortdesc>
+    <taskbody>
+        <context>Maggie will need to remember to bring certain things and consider her spending
+            while away on break. The following steps will allow her to be successful with spending.
+                <image href="../images/iStock_000008605409XSmall-Wallet.jpg" id="image_p12_d5n_cz"
+            /></context>
+        <steps>
+            <step>
+                <cmd>Bring credit card to Chantilly</cmd>
+            </step>
+            <step>
+                <cmd>Bring cash</cmd>
+            </step>
+            <step>
+                <cmd>Create a spending budget and follow through </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

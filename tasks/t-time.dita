@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ilc_ysn_cz">
+    <title>Valuable Time</title>
+    <shortdesc>The break is just a week but Maggie wants to do a lot while she is at NOVA. She may
+        go to her beach house with her family, she will probably work on some homework, go swimming,
+        eat home-cooked food and play with her dog. </shortdesc>
+    <taskbody>
+        <context>Maggie wants to make sure that she has enough time to do all these activities so
+            she needs to plan accordingly. <p><image href="../images/filename-beach-house.jpg"
+                    id="image_sqc_ttn_cz"/></p></context>
+        <steps>
+            <step>
+                <cmd>Look over class assignments and enter into agenda</cmd>
+            </step>
+            <step>
+                <cmd>Create a homework schedule</cmd>
+            </step>
+            <step>
+                <cmd>Look over family beach house schedule </cmd>
+            </step>
+            <step>
+                <cmd>Divide time between her family, pets, schoolwork and friends in a fair
+                    manner</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
