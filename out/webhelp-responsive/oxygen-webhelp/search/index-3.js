@@ -1,13 +1,12 @@
 
 // Auto generated index for searching.
-w["pillows"]="2*0";
-w["plan"]="4*0";
 w["play"]="4*26";
 w["possible"]="5*26";
 w["prepare"]="2*0";
 w["pressure"]="5*0";
 w["probably"]="4*26";
 w["provide"]="3*0";
+w["provides"]="6*26";
 w["put"]="3*0";
 w["refresh"]="0*0";
 w["relax"]="0*0,1*26";
@@ -17,7 +16,8 @@ w["ride"]="5*0";
 w["safety"]="5*0";
 w["schedule"]="4*1";
 w["schoolwork"]="4*0";
-w["search"]="0*0,1*0,2*0,3*0,4*0,5*0";
+w["search"]="0*0,1*0,2*0,3*0,4*0,5*0,6*0";
+w["seven"]="2*0";
 w["she"]="0*26,2*3,3*0,4*80";
 w["sleep"]="2*0";
 w["sleeping"]="2*28";
@@ -48,6 +48,7 @@ w["toward"]="3*0";
 w["transporatation"]="5*30";
 w["travel"]="5*26";
 w["trip"]="3*26";
+w["troubleshooting"]="6*56";
 w["undergraduate"]="0*26";
 w["understanding"]="3*0";
 w["up"]="5*0";

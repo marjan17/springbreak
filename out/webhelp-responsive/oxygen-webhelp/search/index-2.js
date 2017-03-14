@@ -1,6 +1,5 @@
 
 // Auto generated index for searching.
-w["follow"]="1*0";
 w["following"]="1*0,3*0";
 w["food"]="4*26";
 w["four"]="5*27";
@@ -66,4 +65,6 @@ w["parents"]="3*0";
 w["pay"]="1*30";
 w["period"]="3*0";
 w["pets"]="4*0";
+w["pillows"]="2*0";
+w["plan"]="4*0";
 

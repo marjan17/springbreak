@@ -6,4 +6,5 @@ fl["2"]= "tasks/t-sleep.html";
 fl["3"]= "tasks/t-springbreaktasks.html";
 fl["4"]= "tasks/t-time.html";
 fl["5"]= "tasks/t-transporation.html";
+fl["6"]= "tasks/ts-troubleshoot.html";
 var doStem = false;searchLoaded = true;

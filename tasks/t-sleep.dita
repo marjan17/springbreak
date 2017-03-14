@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_gnf_trn_cz">
-    <title>Sweet Dreams <image href="../images/670da6024b700b3199b1b7fb2163ad5f.jpg"
-            id="image_pjm_1tn_cz"/></title>
+    <title>Sweet Dreams </title>
     <shortdesc>Here we will learn about the sleeping arrangments during the stay at NOVA</shortdesc>
     <taskbody>
         <context>
@@ -16,7 +15,7 @@
                     bears, etc.)</cmd>
             </step>
             <step>
-                <cmd>Prepare to sleep in 7 days a week</cmd>
+                <cmd>Prepare to sleep in seven days a week</cmd>
             </step>
         </steps>
     </taskbody>
