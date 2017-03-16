@@ -5,4 +5,4 @@ fil["2"]= "tasks/t-sleep.html@@@Sweet Dreams@@@Here we will learn about the slee
 fil["3"]= "tasks/t-springbreaktasks.html@@@Where To?@@@Here we will learn about where the spring break trip will take us...";
 fil["4"]= "tasks/t-time.html@@@Valuable Time@@@The break is just a week but Maggie wants to do a lot while she is at NOVA. She may go to her beach house with her family, she will probably work on some homework, go swimming,\n        eat home-cooked food and play with her dog...";
 fil["5"]= "tasks/t-transporation.html@@@Transporatation@@@Blacksburg and Chantily are very far away. The four hour travel will be long and tiring. Maggie wants to get there in the most efficient way possible...";
-fil["6"]= "tasks/ts-troubleshoot.html@@@Troubleshooting@@@This provides troubleshooting...";
+fil["6"]= "tasks/ts-troubleshoot.html@@@Troubleshooting@@@Spring Break hurdles...";
