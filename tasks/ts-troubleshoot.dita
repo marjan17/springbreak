@@ -2,14 +2,24 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_kwx_spw_fz">
     <title>Troubleshooting </title>
-    <shortdesc>This provides troubleshooting </shortdesc>
+    <shortdesc>Spring Break hurdles </shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context><p/>You may run into some problems during Spring Break if you aren't caerful in
+            your planning. The following are questions that you may have during your
+            vacation:</context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>What if I run out of money? If you run out of money, call your parents.  </cmd>
+            </step>
+            <step>
+                <cmd>What if I get bored?  To avoid boredom or down time during Spring Break, make
+                    sure you plan ahead. Bring all the items that will allow you to do what you want
+                    during break and even more. Bring extra things to do in case you have extra
+                    time.</cmd>
+            </step>
+            <step>
+                <cmd>What if I forget my pillows and blankets? Extra pillows and blankets are inside
+                    the home, just in case.</cmd>
             </step>
         </steps>
     </taskbody>
